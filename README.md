@@ -120,10 +120,3 @@ Let’s brew better business decisions with data! ☕📊
 
 ---
 
-### Next Steps for You:
-1. Save this as `README.md` in your repo.
-2. Add the actual screenshots (`page1.png`, `page2.png`) to a `screenshots/` folder.
-3. (Optional) Upload the `.pbix` file if you want to share the dashboard.
-4. Push to GitHub — it will render perfectly!
-
-Let me know if you want a **Python analysis script**, **DAX measures**, or a **live demo link** (e.g., Power BI Service) added too!
